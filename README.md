@@ -1,7 +1,7 @@
 # Tweeletion
 Python script to delete your tweets.
 
-## Installation
+## Installation and Execution
 
 1. `git clone https://github.com/mymindwentblvnk/Tweeletion`
 2. `make env`
